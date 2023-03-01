@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-bool isPalindrome(char* s) {
+int isPalindrome(char* s) {
     int i = 0;
     int j = strlen(s) - 1;
 

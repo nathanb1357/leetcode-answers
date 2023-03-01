@@ -1,3 +1,4 @@
+#include <stdio.h>
 
 int maxProfit(int* prices, int pricesSize) {
     int buy = 0, sell = 1;
