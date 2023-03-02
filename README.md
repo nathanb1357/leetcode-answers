@@ -9,6 +9,7 @@
 5. Best Time to Buy and Sell Stock: [C](C/leetcode-121.c)
 6. Find the Duplicate Number: [C](C/leetcode-287.c)
 7. Check if Every Row and Column Contain All Numbers: [C](C/leetcode-2133.c)
+8. Merge Sorted Array: [C](C/leetcode-88.c)
 
 ### Strings:
 1. Roman to Integer: [Java](Java/leetcode-13.java)
@@ -26,6 +27,7 @@
 1. Insertion Sort List: [C](C/leetcode-147.c)
 2. Sort List: [C](C/leetcode-148.c)
 3. Sorting the Sentence: [C](C/leetcode-1859.c)
+4. Merge Sorted Array: [C](C/leetcode-88.c)
 
 ### Matrices:
 
