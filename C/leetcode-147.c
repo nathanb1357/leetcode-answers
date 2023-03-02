@@ -5,6 +5,8 @@ typedef struct ListNode {
     struct ListNode *next;
 } ListNode;
 
+// INSERTION SORTS a singly linked list list given the head
+
 ListNode* insertionSortList(ListNode* head) {
     ListNode* node = (ListNode*) malloc(sizeof(ListNode));
     node->next = NULL;
