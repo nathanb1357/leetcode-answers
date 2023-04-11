@@ -1,3 +1,5 @@
+USE LeetcodeDB
+
 SELECT email AS Email
 FROM Person
 GROUP BY email

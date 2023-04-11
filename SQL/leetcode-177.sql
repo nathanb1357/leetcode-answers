@@ -1,3 +1,6 @@
+USE LeetcodeDB
+
+
 CREATE FUNCTION getNthHighestSalary(
     @N INT
 ) RETURNS INT AS

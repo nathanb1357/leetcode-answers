@@ -1,3 +1,5 @@
+USE LeetcodeDB
+
 SELECT Scores.score, COUNT(Ranking.score) AS rank
 FROM Scores, (
     SELECT DISTINCT score

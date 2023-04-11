@@ -1,3 +1,5 @@
+USE LeetcodeDB
+
 SELECT DISTINCT L.num AS ConsecutiveNums
 FROM Logs L
 WHERE (L.id + 1) IN (
